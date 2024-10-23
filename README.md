@@ -1,7 +1,3 @@
-Here's a **README** file you can use for your project on GitHub:
-
----
-
 # Automated WhatsApp Business Chat Scraper & Contact Organizer
 
 ## Project Overview
